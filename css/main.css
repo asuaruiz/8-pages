@@ -1,0 +1,21 @@
+div {
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	margin: 8px;
+	border: 1px solid black;
+}
+.tres {
+	width: 370px;
+	height: auto;
+	background-color: gray;
+	border: 1px solid black;
+}
+.internbox {
+	border: 1px solid black;
+	background-color: gray;
+	display: inline-block;
+}
+.upbox2 {
+	display: inline-block;
+}
